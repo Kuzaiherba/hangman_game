@@ -5,6 +5,7 @@
 
  ## Copyright
  Copyright © 2018 Alina Glukhonemykh. See [license] for details.
+ 
 [license]: LICENSE.txt
 
 [travis-url]: https://travis-ci.org/Kuzaiherba/hangman_game
