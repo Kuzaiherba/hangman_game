@@ -7,7 +7,7 @@
  Copyright © 2018 Alina Glukhonemykh. See [license] for details.
 [license]: LICENSE.txt
 
-[travis-url]: https://travis-ci.org/Kuzaiherba/hangman
-[travis-badge]: https://travis-ci.org/Kuzaiherba/hangman.svg?branch=master
-[coverage-image]: https://codecov.io/gh/Kuzaiherba/hangman/branch/master/graph/badge.svg
-[coverage-url]: https://codecov.io/gh/Kuzaiherba/hangman
+[travis-url]: https://travis-ci.org/Kuzaiherba/hangman_game
+[travis-badge]: https://travis-ci.org/Kuzaiherba/hangman_game.svg?branch=master
+[coverage-image]: https://codecov.io/gh/Kuzaiherba/hangman_game/branch/master/graph/badge.svg
+[coverage-url]: https://codecov.io/gh/Kuzaiherba/hangman_game
